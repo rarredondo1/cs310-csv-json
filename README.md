@@ -37,8 +37,5 @@ notation to be able to store data in a structures form.
         "colHeaders":["ID","Total","Assignment 1","Assignment 2","Exam 1"]}
     
  - Method
-   - CSV being represented as tabular data used to import or exort data to and from databases, used in spreadsheets, and used to copy
-    and paste data to and from any desktops OS; tend to overlape with the fact that JSON files are used in program API's and configuration
-    files. So the reason for needing a converter is so that when a CSV file is turned into an array of arrays as a JSON it makes it hard
-    to interpret for the user. Since the array of arrays create a back to back system of bracets and no newline characters, the readability
-    is far to hard to understand the insides of the information.
+   - CSV being represented as tabular data used to import or export data to and from databases, used in spreadsheets, and used to copy
+    and paste data to and from any desktops OS; tend to overlape with the fact that JSON files are used in program API's and configuration files. So the reason for needing a converter is so that when a CSV file is turned into an array of arrays as a JSON it makes it hard to interpret for the user. Since the array of arrays create a back to back system of bracets and no newline characters, the readability is far too hard to understand the insides of the information.
